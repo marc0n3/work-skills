@@ -1,0 +1,4 @@
+interface:
+  display_name: "Virgilio - Code Tour"
+  short_description: "Tour completo del codice per feature, a piccoli passi"
+  default_prompt: "Usa $virgilio per creare una mappa con ordine di visita e hint, poi guidami una feature alla volta con link ai file e alle righe da aprire nel mio editor, coprendo tutte le modifiche della branch corrente rispetto a master."

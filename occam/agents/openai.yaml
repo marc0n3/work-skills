@@ -1,0 +1,4 @@
+interface:
+  display_name: "Occam"
+  short_description: "Trova overengineering e propone tagli motivati"
+  default_prompt: "Usa $occam per rivedere questo piano o branch e proporre cosa eliminare, accorpare o rimandare per una soluzione più snella."
